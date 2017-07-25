@@ -1,1 +1,1 @@
-# cicd-terraform-stacks
+# terraform-stacks
